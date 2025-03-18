@@ -1,0 +1,3 @@
+Endurance -5
+Pv -10, Or +50
+Endurance -10

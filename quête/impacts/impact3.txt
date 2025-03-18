@@ -1,0 +1,3 @@
+Endurance -100
+Pv -1000
+Pv -1000

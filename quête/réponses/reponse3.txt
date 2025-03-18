@@ -1,0 +1,4 @@
+Vous allez à droite
+Vous allez à gauche
+Vous faites demi-tour
+

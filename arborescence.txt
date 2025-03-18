@@ -1,0 +1,23 @@
+projet/
+|__ intro.txt
+├── inventaire.save
+├── questions/
+│   ├── question1.txt
+│   ├── question2.txt
+│   └── ...
+├── reponses/
+│   ├── reponse1_1.txt
+│   ├── reponse1_2.txt
+│   ├── reponse1_3.txt
+│   ├── reponse2_1.txt
+│   ├── reponse2_2.txt
+│   ├── reponse2_3.txt
+│   └── ...
+└---- impacts/
+    ├── impact1_1.txt
+    ├── impact1_2.txt
+    ├── impact1_3.txt
+    ├── impact2_1.txt
+    ├── impact2_2.txt
+    ├── impact2_3.txt
+    └── ...
